@@ -157,6 +157,10 @@ The Power BI report has three pages.
 
 ### Page 1 — Executive Overview
 
+![Executive Overview](03.Power_BI/Page_1_Executive_Overview.png)
+
+### Page 1 — Executive Overview
+
 This page gives a high-level view of the company.
 
 It contains:
@@ -171,6 +175,8 @@ It contains:
 The purpose of this page is to give management a quick view of overall performance.
 
 ### Page 2 — Customer & Revenue Analysis
+
+![Customer & Revenue Analysis](03.Power_BI/Page_2_Customer_Revenue.png)
 
 This page focuses on customers and revenue.
 
@@ -189,6 +195,8 @@ It contains:
 The purpose is to understand customer performance and identify the customer segments contributing to revenue.
 
 ### Page 3 — Operations & Shipment Performance
+
+![Operations & Shipment Performance](03.Power_BI/Page_3_Operations_Shipment.png)
 
 This page focuses on logistics and shipment performance.
 
@@ -251,25 +259,34 @@ Another challenge was Power BI filter context. The Contract Tier filter and cust
 ```text
 ReLoop_Crate_Systems/
 │
-├── SQL/
-│   └── Business_Queries.sql
+├── 01.SQL/
+│   └── 02_Business_KPI_Queries.sql
 │
-├── Python/
-│   ├── Data_Loading.py
+├── 02.Python/
 │   ├── Data_Cleaning.py
+│   ├── Data_Loading.py
 │   ├── EDA.py
 │   └── Visualization.py
 │
-├── PowerBI/
+├── 03.Power_BI/
+│   ├── Page_1_Executive_Overview.png
+│   ├── Page_2_Customer_Revenue.png
+│   ├── Page_3_Operations_Shipment.png
 │   └── ReLoop_Crate_Systems_Analytics.pbix
 │
 ├── csv/
-│   ├── customers.csv
 │   ├── contracts.csv
+│   ├── crate_models.csv
+│   ├── customer_addresses.csv
+│   ├── customers.csv
 │   ├── deployment_orders.csv
+│   ├── employees.csv
 │   ├── invoices.csv
+│   ├── order_items.csv
+│   ├── regions.csv
+│   ├── service_logs.csv
 │   ├── shipments.csv
-│   └── ...
+│   └── suppliers.csv
 │
 └── README.md
 ```
