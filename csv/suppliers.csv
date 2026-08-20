@@ -1,0 +1,93 @@
+﻿supplier_id,supplier_code,supplier_name,supplier_type,home_region_id,contact_email,contact_phone,onboarded_on,supplier_status,standard_lead_days,quality_rating
+1,SUP-0001,mosaic systems,Linehaul Carrier,1,ops1@supplier.example,670-959-1477,2024-06-24,Active,15,2.58
+2,SUP-0002,Pioneer Services,Repair Parts,5,ops2@supplier.example,487-232-3197,2025-03-12,Active,8,
+3,SUP-0003,Cobalt Transit,Linehaul Carrier,7,ops3@supplier.example,627-977-5932,2024-10-26,Active,16,3.56
+4,SUP-0004,Oakmont Materials,Repair Parts,7,ops4@supplier.example,511-640-6769,2025-05-17,Inactive,11,4.84
+5,SUP-0005,Meridian Industrial,Sanitation Chemicals,9,,329-462-9305,2023-03-10,Active,21,3.91
+6,SUP-0006, Mosaic Materials,Sanitation Chemicals,5,ops6@supplier.example,543.214.9303,2023-04-03,Active,8,2.64
+7,SUP-0007,Northwind Industrial,Repair Parts,5,ops7@supplier.example,899-563-4226,2024-08-12,Active,9,2.51
+8,SUP-0008,Solace Systems,Sanitation Chemicals,6,ops8@supplier.example,548-523-3503,2025-05-26,Active,17,3.97
+9,SUP-0009,Helix Materials,Local Carrier,2,ops9@supplier.example,735-724-6537,2023-03-17,Active,16,4.80
+10,SUP-0010,Northwind Services,Linehaul Carrier,11,ops10@supplier.example,242-921-7484,2024-10-14,Inactive,8,3.47
+11,SUP-0011,Aster Services,Sanitation Chemicals,1,,586-859-8063,2023-01-07,Active,19,3.59
+12,SUP-0012,Cardinal Systems,Local Carrier,8,ops12@supplier.example,385-724-7083,2023-01-18,Conditional,10,4.30
+13,SUP-0013,Riverbend Transit,Crate Fabricator,11,ops13@supplier.example,750-232-1712,2023-04-28,Active,8,2.61
+14,SUP-0014,Granite Works,Sanitation Chemicals,11,ops14@supplier.example,814-524-9862,2024-07-16,Active,5,2.48
+15,SUP-0015,Crescent Materials,RFID Components,10,ops15@supplier.example,525-310-6997,2025-06-18,Active,5,2.61
+16,SUP-0016,Brightwell Materials,Crate Fabricator,8,ops16@supplier.example,689-699-3915,2023-03-22,Active,7,3.36
+17,SUP-0017,briar services,Crate Fabricator,3,ops17@supplier.example,534-370-7352,2023-10-26,Active,19,2.59
+18,SUP-0018,Crescent Transit,Local Carrier,11,ops18@supplier.example,512-620-9077,2023-10-16,Active,19,3.81
+19,SUP-0019,Lantern Industrial,Crate Fabricator,2,ops19@supplier.example,360-307-2042,2024-04-08,Active,7,3.15
+20,SUP-0020,Forge Services,Sanitation Chemicals,10,ops20@supplier.example,883-739-8564,2025-06-20,Active,20,3.92
+21,SUP-0021,Granite Works,Sanitation Chemicals,4,,920-223-8976,2025-03-13,Active,4,3.93
+22,SUP-0022,Lantern Materials,RFID Components,5,ops22@supplier.example,289-813-8908,2023-04-04,Active,15,3.88
+23,SUP-0023,Crescent Works,Sanitation Chemicals,6,ops23@supplier.example,591-716-8191,2024-04-21,Active,15,4.48
+24,SUP-0024,Ardent Works,Sanitation Chemicals,9,ops24@supplier.example,562-359-7791,2024-07-07,Active,12,4.17
+25,SUP-0025,Everfield Materials,Repair Parts,11,ops25@supplier.example,660-398-3342,2025-01-11,Active,20,2.71
+26,SUP-0026,Helix Transit,Linehaul Carrier,6,ops26@supplier.example,978-702-2379,2025-07-31,Conditional,10,3.39
+27,SUP-0027,Cardinal Transit,Linehaul Carrier,2,ops27@supplier.example,355-467-7412,2023-08-05,Active,7,3.69
+28,SUP-0028,Oakmont Systems,RFID Components,7,ops28@supplier.example,757-283-6421,2023-06-18,Active,18,2.87
+29,SUP-0029,Vantage Materials,Repair Parts,6,ops29@supplier.example,395-852-8464,2025-05-13,Active,14,4.48
+30,SUP-0030,Riverbend Works,Local Carrier,8,ops30@supplier.example,989-705-1615,2023-08-06,Active,7,
+31,SUP-0031,Summit Services,Crate Fabricator,5,ops31@supplier.example,N/A,2023-02-21,Active,15,3.10
+32,SUP-0032,Vantage Materials,Sanitation Chemicals,10,ops32@supplier.example,599-282-7427,2024-04-13,Active,17,
+33,SUP-0033,Aster Systems,Local Carrier,7,ops33@supplier.example,562-214-3549,2023-08-28,Active,14,2.79
+34,SUP-0034,Everfield Services,RFID Components,6,ops34@supplier.example,328-660-4914,2024-03-16,Inactive,14,4.76
+35,SUP-0035,Crescent Transit,Linehaul Carrier,11,ops35@supplier.example,266-417-7098,2025-07-29,Active,8,4.06
+36,SUP-0036,Bluevale Industrial,Linehaul Carrier,10,ops36@supplier.example,273-590-8571,2024-04-11,Active,11,3.94
+37,SUP-0037,Crown Systems ,Repair Parts,9,,923-812-8887,2023-04-13,Inactive,8,4.80
+38,SUP-0038,Pioneer Services,RFID Components,6,ops38@supplier.example,812-341-7032,2024-10-31,Active,21,3.86
+39,SUP-0039,Trinity Transit,Repair Parts,4,ops39@supplier.example,328-709-1403,2025-07-08,Active,9,
+40,SUP-0040,Harbor Services,Local Carrier,4,ops40@supplier.example,508-909-4375,2023-05-08,Conditional,19,3.64
+41,SUP-0041,Orchard Industrial,Crate Fabricator,5,ops41@supplier.example,244-972-77,2024-04-28,Inactive,2,3.41
+42,SUP-0042,Northwind Industrial ,Crate Fabricator,9,ops42@supplier.example,351-802-9244,2024-03-19,Active,15,2.54
+43,SUP-0043,Briar Industrial,Repair Parts,11,ops43@supplier.example,945-585-7636,2023-09-24,Active,5,3.10
+44,SUP-0044,Summit Transit,Linehaul Carrier,4,ops44@supplier.example,562-542-9524,2024-05-08,active ,10,4.43
+45,SUP-0045,Mosaic Transit,Sanitation Chemicals,10,ops45@supplier.example,230-559-7936,2024-08-06,Active,17,2.91
+46,SUP-0046,Riverbend Transit,Linehaul Carrier,9,ops46@supplier.example,545-722-2971,2025-02-03,Active,6,3.76
+47,SUP-0047,Ardent Services,Sanitation Chemicals,3,,546-875-6767,2023-02-25,Inactive,9,4.55
+48,SUP-0048,Lantern Services,Sanitation Chemicals,1,ops48@supplier.example,534-811-1943,2024-09-21,Active,13,2.56
+49,SUP-0049, Cardinal Industrial,Crate Fabricator,3,ops49@supplier.example,N/A,2025-05-11,Active,14,2.52
+50,SUP-0050,Granite Works,RFID Components,5,ops50@supplier.example,820-339-4215,2024-10-13,Active,8,4.58
+51,SUP-0051,Solace Systems,Repair Parts,11,ops51@supplier.example,(763) 888-7799,2024-12-25,Active,11,3.95
+52,SUP-0052,Ardent Works,Crate Fabricator,4,ops52@supplier.example,931-910-9490,2024-07-10,Active,4,4.16
+53,SUP-0053,Summit Transit,Repair Parts,10,,349-405-6408,2025-06-03,Active,2,3.09
+54,SUP-0054,Orchard Industrial,Crate Fabricator,3,ops54@supplier.example,952-571-5854,2023-04-10,Active,3,3.70
+55,SUP-0055,Westline Works,Linehaul Carrier,4,ops55@supplier.example,719-566-9570,2023-07-18,Active,4,3.94
+56,SUP-0056,Mosaic Materials,Repair Parts,4,ops56@supplier.example,732-257-1546,2024-02-21,Active,9,
+57,SUP-0057,Pioneer Services,Crate Fabricator,8,ops57@supplier.example,840-398-3597,2023-03-14,Conditional,3,3.80
+58,SUP-0058,Pioneer Services,RFID Components,6,ops58@supplier.example,00561 876 5092,2024-05-06,active ,7,2.58
+59,SUP-0059,Cobalt Services,RFID Components,6,ops59@supplier.example,312-291-5145,2024-09-16,active ,13,2.62
+60,SUP-0060,Trinity Works,Linehaul Carrier,7,ops60@supplier.example,764-772-5830,2023-12-22,Active,19,3.03
+61,SUP-0061,Lakeside Works,Crate Fabricator,7,ops61@supplier.example,292-949-1357,2023-12-11,Active,7,3.07
+62,SUP-0062,Lakeside Works ,Local Carrier,7,ops62@supplier.example,902-858-4433,2023-02-19,Active,9,3.18
+63,SUP-0063,Cardinal Services,RFID Components,9,ops63@supplier.example,849-593-6797,2023-06-08,Active,11,2.47
+64,SUP-0064,Forge Industrial,Crate Fabricator,1,ops64@supplier.example,N/A,2025-03-06,Active,14,4.39
+65,SUP-0065,Meridian Services,Sanitation Chemicals,6,ops65@supplier.example,868-247-8353,2024-04-19,Active,8,3.73
+66,SUP-0066,Helix Transit,Sanitation Chemicals,1,ops66@supplier.example,848-891-3136,2023-07-10,Active,15,3.21
+67,SUP-0067,Briar Works,RFID Components,10,ops67@supplier.example,871-284-3112,2023-03-01,Active,12,2.79
+68,SUP-0068,Cobalt Works,Linehaul Carrier,7,ops68@supplier.example,770-336-1759,2025-07-27,Active,10,2.56
+69,SUP-0069,Crescent Services,Local Carrier,4,ops69@supplier.example,796-389-9285,2025-02-19,Active,16,4.77
+70,SUP-0070, Crescent Services,RFID Components,10,ops70@supplier.example,,2024-10-06,Active,5,4.08
+71,SUP-0071,Pioneer Materials,Local Carrier,4,ops71@supplier.example,6065668154,2023-09-21,Active,3,2.58
+72,SUP-0072,Northwind Materials,Repair Parts,6,ops72@supplier.example,615-973-3048,2024-02-03,Active,20,3.42
+73,SUP-0073, Trinity Transit,Repair Parts,1,ops73@supplier.example,671-957-5612,2023-10-15,Conditional,14,4.47
+74,SUP-0074,Lakeside Materials,Linehaul Carrier,1,ops74@supplier.example,749-363-7388,2024-06-17,Active,19,2.83
+75,SUP-0075,Everfield Systems,Repair Parts,9,ops75@supplier.example,426-873-3472,2024-02-07,Active,16,4.23
+76,SUP-0076,Westline Transit,Repair Parts,4,ops76@supplier.example,290-792-7967,2023-10-29,Active,17,4.73
+77,SUP-0077,Trinity Services,Sanitation Chemicals,11,ops77@supplier.example,441-353-3282,2023-08-12,Active,19,3.40
+78,SUP-0078,Pioneer Materials,Crate Fabricator,11,ops78@supplier.example,604-408-3459,2024-12-22,Active,19,2.98
+79,SUP-0079,Cobalt Services,Sanitation Chemicals,11,,768-979-70,2023-03-16,Active,2,3.54
+80,SUP-0080,Orchard Industrial,Linehaul Carrier,1,ops80@supplier.example,656-887-7462,2024-12-18,Active,9,4.53
+81,SUP-0081,Vantage Transit,Repair Parts,3,ops81@supplier.example,(564) 707-3285,2024-03-06,Active,10,4.75
+82,SUP-0082,Solace Materials,RFID Components,1,ops82@supplier.example,473-875-6176,2023-07-03,Active,3,4.13
+83,SUP-0083,Forge Industrial,RFID Components,4,ops83@supplier.example,(648) 790-7755,2024-11-09,Active,2,2.80
+84,SUP-0084,Harbor Services,Linehaul Carrier,3,ops84@supplier.example,609-792-4285,2024-03-23,Active,11,4.66
+85,SUP-0085,Everfield Transit,Linehaul Carrier,7,ops85@supplier.example,386-276-3843,2023-07-10,Active,15,3.55
+86,SUP-0086,Forge Works,Crate Fabricator,1,ops86@supplier.example,370-878-7110,2024-06-18,Active,14,4.11
+87,SUP-0087,Riverbend Services,Repair Parts,1,ops87@supplier.example,233-962-1425,2024-12-09,Inactive,19,2.77
+88,SUP-0088, Helix Works,Crate Fabricator,9,ops88@supplier.example,935-497-4549,2023-04-01,Active,20,2.96
+89,SUP-0089,Vantage Systems,Crate Fabricator,7,ops89@supplier.example,557-221-9427,2024-06-28,Active,6,2.88
+90,SUP-0090,Forge Systems,Linehaul Carrier,7,ops90@supplier.example,902-641-4555,2024-07-23,Active,19,4.18
+91,SUP-0091,Trinity Materials,Linehaul Carrier,7,ops91@supplier.example,298-460-8421,2024-04-06,Active,10,3.40
+92,SUP-0092,Cedar Transit,Repair Parts,3,ops92@supplier.example,360-379-9539,2023-06-30,Active,17,4.51

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="570" viewBox="0 0 1000 570">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<style>text{font-family:Arial,sans-serif;fill:#0f172a}.t{font-weight:bold;font-size:15px}.s{font-size:11px;fill:#475569}.b{fill:#ffffff;stroke:#2563eb;stroke-width:1.5}.l{stroke:#94a3b8;stroke-width:1.5;fill:none}</style>
+<text x="30" y="20" class="t">ReLoop Crate Systems — Entity Relationship Diagram</text>
+<path class="l" d="M110 75 L350 50"/>
+<path class="l" d="M110 75 L595 75"/>
+<path class="l" d="M350 50 L835 50"/>
+<path class="l" d="M595 75 L595 210"/>
+<path class="l" d="M110 210 L350 210"/>
+<path class="l" d="M350 210 L835 210"/>
+<path class="l" d="M595 210 L835 210"/>
+<path class="l" d="M835 210 L350 345"/>
+<path class="l" d="M835 210 L595 345"/>
+<path class="l" d="M595 345 L835 345"/>
+<path class="l" d="M595 210 L595 480"/>
+<path class="l" d="M835 210 L595 480"/>
+<rect class="b" x="30" y="45" width="170" height="58" rx="7"/>
+<text class="t" x="42" y="69">regions</text>
+<text class="s" x="42" y="88">PK + related foreign keys</text>
+<rect class="b" x="270" y="20" width="170" height="58" rx="7"/>
+<text class="t" x="282" y="44">employees</text>
+<text class="s" x="282" y="63">PK + related foreign keys</text>
+<rect class="b" x="515" y="45" width="170" height="58" rx="7"/>
+<text class="t" x="527" y="69">customers</text>
+<text class="s" x="527" y="88">PK + related foreign keys</text>
+<rect class="b" x="755" y="20" width="170" height="58" rx="7"/>
+<text class="t" x="767" y="44">customer_addresses</text>
+<text class="s" x="767" y="63">PK + related foreign keys</text>
+<rect class="b" x="30" y="180" width="170" height="58" rx="7"/>
+<text class="t" x="42" y="204">suppliers</text>
+<text class="s" x="42" y="223">PK + related foreign keys</text>
+<rect class="b" x="270" y="180" width="170" height="58" rx="7"/>
+<text class="t" x="282" y="204">crate_models</text>
+<text class="s" x="282" y="223">PK + related foreign keys</text>
+<rect class="b" x="515" y="180" width="170" height="58" rx="7"/>
+<text class="t" x="527" y="204">contracts</text>
+<text class="s" x="527" y="223">PK + related foreign keys</text>
+<rect class="b" x="755" y="180" width="170" height="58" rx="7"/>
+<text class="t" x="767" y="204">deployment_orders</text>
+<text class="s" x="767" y="223">PK + related foreign keys</text>
+<rect class="b" x="270" y="315" width="170" height="58" rx="7"/>
+<text class="t" x="282" y="339">order_items</text>
+<text class="s" x="282" y="358">PK + related foreign keys</text>
+<rect class="b" x="515" y="315" width="170" height="58" rx="7"/>
+<text class="t" x="527" y="339">shipments</text>
+<text class="s" x="527" y="358">PK + related foreign keys</text>
+<rect class="b" x="755" y="315" width="170" height="58" rx="7"/>
+<text class="t" x="767" y="339">service_logs</text>
+<text class="s" x="767" y="358">PK + related foreign keys</text>
+<rect class="b" x="515" y="450" width="170" height="58" rx="7"/>
+<text class="t" x="527" y="474">invoices</text>
+<text class="s" x="527" y="493">PK + related foreign keys</text>
+</svg>

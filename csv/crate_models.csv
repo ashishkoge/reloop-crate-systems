@@ -1,0 +1,121 @@
+﻿crate_model_id,sku,model_name,crate_category,temperature_band,material,capacity_liters,base_daily_rental_rate,replacement_cost,primary_supplier_id,active_flag,introduced_on
+1,RLP-PRO-001,Tundra 90L Series B,Produce Crate,2–8 C,EPP Foam,90,13.32,388.95,3,True,2023-09-22
+2,RLP-VAC-002,Arctic 35L Plus,Vaccine Carrier,2-8C,Recycled PP,35,6.80,214.89,69,False,2024-03-01
+3,RLP-PRO-003,Nexus 35L Series B,Produce  Crate,Ambient,Aluminum Composite,35,11.32,606.00,10,True,2024-02-05
+4,RLP-INS-004,Nexus 450L Plus,Insulated Tote,Frozen,Aluminum Composite,450,5.74,343.56,28,True,2023-08-01
+5,RLP-PRO-005,Nexus 240L Plus,Produce Crate,-20C,HDPE,240,0.98,53.20,15,True,2023-06-21
+6,RLP-VAC-006,Cirrus 35L Series A,Vaccine Carrier,Ambient,Aluminum Composite,35,8.01,494.26,86,True,2023-02-23
+7,RLP-PRO-007,Mistral 90L Plus,Produce  Crate,2–8 C,EPP Foam,90,8.94,601.55,21,True,2025-05-12
+8,RLP-VAC-008,Nexus 680L Series B,Vaccine Carrier,Ambient,EPP Foam,680,1.69,76.42,72,True,2023-02-19
+9,RLP-PAL-009,Cirrus 20L Plus,Pallet Shipper,Ambient,EPP Foam,20,3.44,166.71,43,True,2024-08-04
+10,RLP-PRO-010,Mistral 240L Pro,Produce Crate,-20C,Recycled PP,240,15.39,864.85,42,True,2023-03-18
+11,RLP-VAC-011,Mistral 450L Pro,Vaccine Carrier,Frozen,Recycled PP,450,4.45,155.21,16,True,2024-08-25
+12,RLP-PRO-012,Arctic 35L Plus,Produce Crate,Ambient,Aluminum Composite,35,0.82,33.44,14,True,2025-03-27
+13,RLP-VAC-013,Arctic 65L Pro,Vaccine Carrier,2–8 C,HDPE,65,5.54,311.74,6,True,2023-08-31
+14,RLP-RET-014,Tundra 680L Pro,Returnable Divider,2-8C,Recycled PP,680,7.42,434.01,91,True,2024-05-02
+15,RLP-VAC-015,Arctic 50L Series A,Vaccine Carrier,-20C,Aluminum Composite,50,6.53,296.31,19,True,2025-02-22
+16,RLP-RET-016,Cirrus 450L Series B,Returnable Divider,Controlled Room,Aluminum Composite,450,5.24,179.51,82,True,2025-06-08
+17,RLP-PRO-017,Mistral 20L Series A,Produce Crate,2–8 C,Recycled PP,20,13.21,543.57,27,True,2023-05-28
+18,RLP-PAL-018,Nexus 120L Series A,Pallet Shipper,Controlled Room,Aluminum Composite,120,6.90,249.00,27,True,2024-07-11
+19,RLP-PRO-019,Mistral 680L Series A,Produce Crate,-20C,HDPE,680,10.22,505.87,41,True,2024-08-27
+20,RLP-INS-020,Cobalt 20L Plus,Insulated Tote,Ambient,EPP Foam,20,5.96,422.61,91,True,2023-10-13
+21,RLP-PAL-021,Cirrus 50L Series A,pallet shipper,-20C,HDPE,50,10.95,629.88,91,True,2023-08-02
+22,RLP-RET-022,Cobalt 680L Series A,Returnable Divider,Controlled Room,Aluminum Composite,680,4.67,213.07,85,True,2025-02-28
+23,RLP-INS-023,Cobalt 450L Plus,Insulated Tote,Ambient,Recycled PP,450,14.12,783.19,68,True,2024-10-28
+24,RLP-PRO-024,Nexus 65L Pro,Produce Crate,-20C,EPP Foam,65,2.69,165.77,2,True,2024-09-27
+25,RLP-PRO-025,Cirrus 240L Series B,Produce Crate,Ambient,HDPE,240,2.94,113.98,3,True,2023-01-16
+26,RLP-PAL-026,Mistral 90L Series B,pallet shipper,Frozen,HDPE,90,12.52,905.21,14,True,2024-04-11
+27,RLP-PRO-027,Tundra 120L Plus,Produce Crate,Ambient,HDPE,120,7.47,232.38,63,True,2024-12-15
+28,RLP-INS-028,Mistral 20L Plus,Insulated Tote,2–8 C,Aluminum Composite,20,2.38,113.81,86,True,2024-12-03
+29,RLP-INS-029,Nexus 680L Pro,Insulated Tote,2–8 C,Recycled PP,680,5.62,172.69,20,True,2025-06-19
+30,RLP-VAC-030,Cirrus 50L Series A,Vaccine Carrier,2–8 C,Aluminum Composite,50,14.67,962.64,47,True,2024-10-28
+31,RLP-PAL-031,Mistral 450L Pro,pallet shipper,2-8C,Recycled PP,450,6.38,456.55,73,False,2023-06-03
+32,RLP-RET-032,Arctic 680L Plus,Returnable Divider,-20C,Recycled PP,680,1.35,79.46,2,True,2023-08-09
+33,RLP-RET-033,Cirrus 35L Plus,Returnable Divider,Ambient,HDPE,35,4.84,167.00,15,True,2023-08-09
+34,RLP-INS-034,Tundra 240L Series A,Insulated Tote,2-8C,HDPE,240,7.84,291.03,60,True,2023-07-24
+35,RLP-INS-035,Mistral 680L Series B,Insulated Tote,Controlled Room,Aluminum Composite,680,5.11,298.71,29,True,2024-10-20
+36,RLP-INS-036,Nexus 65L Series A,Insulated Tote,2-8C,Recycled PP,65,2.40,76.91,74,True,2023-09-18
+37,RLP-RET-037,Cirrus 35L Series B,Returnable Divider,2–8 C,Aluminum Composite,35,9.92,669.95,70,True,2023-09-06
+38,RLP-INS-038,Arctic 65L Plus,Insulated Tote,Frozen,Recycled PP,65,1.97,131.47,8,True,2023-12-25
+39,RLP-PRO-039,Tundra 120L Series A,Produce Crate,Controlled Room,EPP Foam,120,14.99,391.55,46,True,2025-04-18
+40,RLP-INS-040,Cirrus 120L Series A,Insulated Tote,-20C,Aluminum Composite,120,14.08,632.84,38,True,2025-02-03
+41,RLP-RET-041,Cirrus 65L Plus,Returnable Divider,Frozen,Aluminum Composite,65,5.25,339.92,63,True,2023-07-22
+42,RLP-PAL-042,Mistral 50L Pro,Pallet Shipper,Ambient,Aluminum Composite,50,4.17,209.31,41,True,2023-10-17
+43,RLP-PAL-043,Mistral 120L Plus,Pallet Shipper,-20C,EPP Foam,120,6.85,452.20,57,True,2025-02-26
+44,RLP-INS-044,Arctic 680L Plus,Insulated Tote,Frozen,EPP Foam,680,11.79,782.83,24,True,2023-10-09
+45,RLP-VAC-045,Cirrus 35L Series A,Vaccine Carrier,Ambient,Aluminum Composite,35,15.08,1023.12,82,True,2025-04-30
+46,RLP-VAC-046,Nexus 90L Series B,Vaccine Carrier,Controlled Room,HDPE,90,10.47,406.76,73,False,2024-11-15
+47,RLP-INS-047,Cobalt 240L Series A,Insulated Tote,-20C,EPP Foam,240,11.70,710.63,75,True,2023-07-22
+48,RLP-INS-048,Cobalt 450L Series B,Insulated Tote,2–8 C,Aluminum Composite,450,4.59,229.50,15,True,2023-01-22
+49,RLP-RET-049,Cirrus 680L Plus,Returnable Divider,2–8 C,Aluminum Composite,680,11.18,455.97,92,True,2024-05-16
+50,RLP-PRO-050,Cirrus 50L Series A,Produce Crate,Ambient,HDPE,50,4.81,214.34,31,True,2024-02-21
+51,RLP-PRO-051,Tundra 120L Pro,Produce Crate,2-8C,HDPE,120,12.64,862.21,30,True,2024-01-17
+52,RLP-PAL-052,Tundra 90L Plus,Pallet Shipper,2-8C,HDPE,90,7.26,344.85,81,True,2024-04-01
+53,RLP-INS-053,Tundra 50L Pro,Insulated Tote,-20C,Recycled PP,50,14.33,841.00,20,True,2025-02-24
+54,RLP-PRO-054,Arctic 50L Plus,Produce Crate,-20C,EPP Foam,50,13.90,844.80,69,True,2024-06-20
+55,RLP-PRO-055,Nexus 450L Plus,Produce Crate,2-8C,EPP Foam,450,7.23,226.55,45,True,2024-05-25
+56,RLP-VAC-056,Mistral 65L Series A,Vaccine Carrier,Ambient,HDPE,65,6.98,329.75,77,True,2024-02-23
+57,RLP-INS-057,Mistral 680L Pro,Insulated Tote,-20C,HDPE,680,6.89,389.15,77,True,2024-07-22
+58,RLP-INS-058,Cirrus 50L Series A,Insulated Tote,Controlled Room,Aluminum Composite,50,12.19,397.88,39,True,2023-09-21
+59,RLP-PAL-059,Tundra 35L Series A,Pallet Shipper,Frozen,HDPE,35,4.94,150.80,71,True,2023-05-30
+60,RLP-PRO-060,Cobalt 35L Plus,Produce Crate,2–8 C,Recycled PP,35,3.32,209.74,34,True,2023-06-03
+61,RLP-RET-061,Nexus 35L Series B,Returnable Divider,Ambient,HDPE,35,0.65,33.52,23,True,2023-08-07
+62,RLP-VAC-062,Cobalt 50L Pro,Vaccine Carrier,Controlled Room,Aluminum Composite,50,12.85,636.02,61,True,2025-02-23
+63,RLP-PRO-063,Cobalt 35L Series A,Produce Crate,2–8 C,EPP Foam,35,2.51,69.58,48,True,2024-01-17
+64,RLP-INS-064,Nexus 65L Series A,Insulated Tote,Controlled Room,Aluminum Composite,65,5.11,183.70,51,True,2024-04-28
+65,RLP-PRO-065,Cobalt 90L Series B,Produce Crate,Ambient,Recycled PP,90,7.29,235.05,49,True,2023-12-17
+66,RLP-VAC-066,Tundra 50L Plus,Vaccine Carrier,-20C,HDPE,50,6.22,358.71,82,True,2023-12-24
+67,RLP-PAL-067,Arctic 680L Plus,Pallet Shipper,2-8C,Aluminum Composite,680,2.88,191.20,35,True,2024-09-29
+68,RLP-VAC-068,Arctic 90L Series B,Vaccine Carrier,Controlled Room,Aluminum Composite,90,9.34,411.30,1,True,2024-02-10
+69,RLP-VAC-069,Cobalt 50L Series A,Vaccine Carrier,-20C,HDPE,50,9.61,399.00,61,True,2025-01-09
+70,RLP-INS-070,Cobalt 65L Pro,Insulated Tote,Controlled Room,EPP Foam,65,2.46,140.80,92,True,2024-11-10
+71,RLP-INS-071,Arctic 450L Series B,Insulated Tote,Controlled Room,EPP Foam,450,12.21,343.88,5,True,2023-06-19
+72,RLP-PAL-072,Tundra 240L Plus,Pallet Shipper,Frozen,Aluminum Composite,240,10.48,302.21,20,True,2024-08-10
+73,RLP-INS-073,Mistral 90L Series A,Insulated Tote,-20C,Recycled PP,90,6.91,244.09,50,True,2023-03-19
+74,RLP-VAC-074,Mistral 120L Series B,Vaccine Carrier,-20C,Aluminum Composite,120,9.39,647.23,74,True,2025-05-06
+75,RLP-RET-075,Cirrus 120L Pro,Returnable Divider ,Frozen,HDPE,120,3.64,224.95,60,True,2025-04-30
+76,RLP-INS-076,Cirrus 65L Pro,Insulated Tote,Frozen,EPP Foam,65,15.18,744.90,26,True,2023-08-03
+77,RLP-PAL-077,Tundra 35L Series B,Pallet Shipper,Ambient,EPP Foam,35,8.26,237.61,72,True,2025-03-23
+78,RLP-PAL-078,Cirrus 50L Series B,Pallet Shipper,Frozen,Aluminum Composite,50,2.29,130.64,9,True,2024-04-06
+79,RLP-PAL-079,Cirrus 35L Series A,Pallet Shipper,Ambient,HDPE,35,13.48,729.62,86,True,2023-01-11
+80,RLP-PAL-080,Arctic 120L Plus,Pallet Shipper,Ambient,Recycled PP,120,5.86,260.13,62,True,2023-06-24
+81,RLP-PRO-081,Tundra 65L Pro,Produce Crate,2-8C,EPP Foam,65,9.05,655.80,82,True,2025-01-15
+82,RLP-PRO-082,Nexus 35L Pro,Produce Crate,Frozen,Aluminum Composite,35,8.56,581.93,55,True,2024-03-02
+83,RLP-PAL-083,Mistral 90L Pro,Pallet Shipper,2-8C,EPP Foam,90,8.71,449.37,1,True,2025-05-30
+84,RLP-VAC-084,Cobalt 65L Series A,Vaccine Carrier,-20C,HDPE,65,5.00,275.56,28,True,2023-03-27
+85,RLP-PAL-085,Arctic 65L Plus,Pallet Shipper,Ambient,Recycled PP,65,0.77,24.60,80,True,2024-09-05
+86,RLP-VAC-086,Arctic 240L Series A,Vaccine Carrier,-20C,HDPE,240,3.41,208.70,1,True,2025-04-04
+87,RLP-INS-087,Cirrus 680L Series B,Insulated Tote,-20C,EPP Foam,680,11.10,646.56,23,True,2024-11-16
+88,RLP-VAC-088,Nexus 20L Series B,Vaccine Carrier,-20C,EPP Foam,20,12.51,408.96,12,False,2023-04-15
+89,RLP-PAL-089,Nexus 90L Pro,pallet shipper,Controlled Room,HDPE,90,2.21,102.53,25,True,2024-12-09
+90,RLP-RET-090,Tundra 450L Series A,Returnable Divider,2–8 C,HDPE,450,1.30,54.54,75,False,2025-06-03
+91,RLP-COL-091,Cirrus 90L Series B,Cold Carrier,2–8 C,Aluminum Composite,90,12.93,842.91,92,True,2024-06-05
+92,RLP-VAC-092,Nexus 20L Plus,Vaccine Carrier,Frozen,Recycled PP,20,7.24,445.44,82,False,2023-01-22
+93,RLP-PRO-093,Arctic 50L Series B,Produce Crate,-20C,Recycled PP,50,1.94,91.88,56,True,2024-04-05
+94,RLP-VAC-094,Tundra 50L Pro,Vaccine Carrier,2-8C,HDPE,50,4.10,194.95,61,False,2023-09-19
+95,RLP-RET-095,Arctic 20L Pro,Returnable Divider,Ambient,Recycled PP,20,12.89,952.05,26,True,2024-05-28
+96,RLP-INS-096,Cobalt 20L Plus,Insulated Tote,2–8 C,EPP Foam,20,9.15,309.88,79,True,2023-07-20
+97,RLP-PAL-097,Cobalt 90L Series B,Pallet Shipper,2–8 C,HDPE,90,8.86,595.72,16,True,2024-09-16
+98,RLP-INS-098,Tundra 120L Pro,Insulated Tote,Frozen,EPP Foam,120,0.76,37.46,89,True,2023-09-18
+99,RLP-PAL-099,Mistral 35L Pro,Pallet Shipper,Frozen,Recycled PP,35,15.19,869.92,78,True,2023-04-10
+100,RLP-PRO-100,Cobalt 20L Pro,Produce Crate,Frozen,Aluminum Composite,20,3.95,218.00,68,True,2023-12-13
+101,RLP-PRO-101,Nexus 90L Pro,Produce Crate,Frozen,EPP Foam,90,4.83,218.79,74,True,2023-03-09
+102,RLP-PAL-102,Mistral 680L Pro,Pallet Shipper,Controlled Room,Recycled PP,680,12.70,593.27,71,True,2024-09-02
+103,RLP-RET-103,Nexus 680L Series B,Returnable Divider,Ambient,Aluminum Composite,680,3.69,189.30,61,True,2024-06-13
+104,RLP-INS-104,Arctic 120L Pro,Insulated Tote,-20C,Recycled PP,120,14.33,408.78,85,True,2025-06-17
+105,RLP-VAC-105,Cirrus 240L Series A,Vaccine Carrier,Controlled Room,HDPE,240,9.64,374.55,64,True,2024-02-08
+106,RLP-PRO-106,Nexus 90L Series A,Produce Crate,Controlled Room,EPP Foam,90,11.82,678.72,88,True,2024-02-26
+107,RLP-VAC-107,Cirrus 120L Plus,Vaccine Carrier,-20C,EPP Foam,120,15.49,705.99,38,True,2023-02-18
+108,RLP-PRO-108,Cirrus 680L Series B,Produce Crate,2–8 C,Recycled PP,680,11.04,648.63,30,True,2025-05-29
+109,RLP-PAL-109,Arctic 20L Plus,Pallet Shipper,Frozen,Recycled PP,20,11.51,664.16,68,True,2023-09-29
+110,RLP-RET-110,Mistral 680L Series B,Returnable Divider,2–8 C,Aluminum Composite,680,5.64,150.51,54,True,2024-03-03
+111,RLP-PAL-111,Tundra 35L Plus,Pallet Shipper,Controlled Room,EPP Foam,35,6.22,346.15,7,True,2024-05-29
+112,RLP-PAL-112,Tundra 450L Pro,Pallet Shipper,Frozen,HDPE,450,15.09,1080.11,50,True,2024-01-22
+113,RLP-PRO-113,Mistral 50L Series B,Produce Crate,Ambient,EPP Foam,50,3.91,194.49,69,True,2023-03-06
+114,RLP-INS-114,Nexus 65L Series A,Insulated Tote,Frozen,Recycled PP,65,3.02,130.72,7,True,2025-01-29
+115,RLP-VAC-115,Arctic 90L Pro,Vaccine Carrier,Ambient,HDPE,90,5.34,303.00,88,False,2024-04-20
+116,RLP-PAL-116,Nexus 35L Pro,Pallet Shipper,2–8 C,Aluminum Composite,35,10.27,549.36,68,True,2025-06-08
+117,RLP-PRO-117,Mistral 35L Series A,Produce Crate,Ambient,Recycled PP,35,5.25,188.61,21,False,2023-01-30
+118,RLP-COL-118,Arctic 450L Plus,Cold Carrier,2-8C,EPP Foam,450,2.46,173.40,47,True,2024-08-23
+119,RLP-INS-119,Mistral 65L Plus,Insulated Tote,Ambient,Recycled PP,65,14.33,818.50,90,True,2023-08-17
+120,RLP-INS-120,Cirrus 120L Series A,Insulated Tote,-20C,HDPE,120,4.75,190.97,22,False,2023-04-17

@@ -1,0 +1,311 @@
+﻿employee_id,employee_code,first_name,last_name,department,job_title,region_id,manager_employee_id,hire_date,employment_status,work_email
+1,EMP-0001,Elias,Brooks,Finance,Billing Specialist,9,,2025-08-07,Active,elias.brooks1@reloopcrates.example
+2,EMP-0002,Mateo,Miller,Operations,Service Technician,9,,2025-02-02,Active,mateo.miller2@reloopcrates.example
+3,EMP-0003,Anika,Nielsen,Supply Chain,Network Planner,8,,2024-10-25,Active,anika.nielsen3@reloopcrates.example
+4,EMP-0004,Mateo,Ibrahim,Finance,Revenue Operations Analyst,4,,2024-06-14,Active,mateo.ibrahim4@reloopcrates.example
+5,EMP-0005,Rafael,Morales,Finance,Revenue Operations Analyst,3,,2023-12-07,Active,rafael.morales5@reloopcrates.example
+6,EMP-0006,Elias,Okafor,Operations,Service Technician,5,,2023-07-24,On Leave,elias.okafor6@reloopcrates.example
+7,EMP-0007,Talia,Morales,Commercial,Account Executive,8,,2025-08-18,Active,talia.morales7@reloopcrates.example
+8,EMP-0008,Priya,Morales,Supply Chain,Network Planner,8,,2024-09-09,Active,priya.morales8@reloopcrates.example
+9,EMP-0009,Sofia,Santos,Operations,Hub Operations Manager,2,,2023-03-08,On Leave,sofia.santos9@reloopcrates.example
+10,EMP-0010,Lena,Vega,Finance,Revenue Operations Analyst,7,,2025-08-10,Active,lena.vega10@reloopcrates.example
+11,EMP-0011,Anika,Rossi,Supply Chain,Network Planner,4,,2023-02-17,Active,anika.rossi11@reloopcrates.example
+12,EMP-0012,Ben,Bennett,Commercial,Sales Operations Analyst,10,,2025-05-16,Active,ben.bennett12@reloopcrates.example
+13,EMP-0013,Elias,Rossi,Supply Chain,Procurement Manager,5,,2025-08-12,Active,elias.rossi13@reloopcrates.example
+14,EMP-0014,Maya,Morales,Commercial,Customer Success Manager,4,,2024-04-11,Active,maya.morales14@reloopcrates.example
+15,EMP-0015,Talia,Nguyen,Commercial,Sales Operations Analyst,9,,2023-02-09,Active,talia.nguyen15@reloopcrates.example
+16,EMP-0016,Sofia,Park,Finance,Billing Specialist,6,,2025-06-26,Active,sofia.park16@reloopcrates.example
+17,EMP-0017,Priya,Morales,Operations,Hub Operations Manager,4,,2024-01-30,Active,priya.morales17@reloopcrates.example
+18,EMP-0018,Caleb,Haddad,Operations,Dispatch Lead,5,,2024-12-05,Active,caleb.haddad18@reloopcrates.example
+19,EMP-0019,Noah,Brooks,Commercial,Account Executive,8,,2023-09-30,Active,noah.brooks19@reloopcrates.example
+20,EMP-0020,Hugo,Nielsen,Commercial,Customer Success Manager,5,,2025-01-13,On Leave,hugo.nielsen20@reloopcrates.example
+21,EMP-0021,Priya,Park,Operations,Dispatch Lead,5,18,2025-03-27,Active,priya.park21@reloopcrates.example
+22,EMP-0022,Mateo,Santos,Commercial,Sales Operations Analyst,5,9,2023-06-11,Active,mateo.santos22@reloopcrates.example
+23,EMP-0023,Darren,Kaur,Operations,Dispatch Lead,8,15,2024-07-24,Active,darren.kaur23@reloopcrates.example
+24,EMP-0024,Jonah,Lambert,Supply Chain,Network Planner,2,11,2024-03-09,Active,jonah.lambert24@reloopcrates.example
+25,EMP-0025,Talia,Owens,Supply Chain,Fleet Coordinator,3,18,2025-06-21,Active,talia.owens25@reloopcrates.example
+26,EMP-0026,Caleb,Miller,Commercial,Customer Success Manager,10,13,2025-09-05,Active,caleb.miller26@reloopcrates.example
+27,EMP-0027,Nina,Lambert,Operations,Service Technician,5,11,2025-02-19,Active,nina.lambert27@reloopcrates.example
+28,EMP-0028,Darren,Chen,Finance,Revenue Operations Analyst,1,13,2023-03-20,Active,darren.chen28@reloopcrates.example
+29,EMP-0029,Anika,Bennett,Operations,Hub Operations Manager,7,4,2025-08-11,Active,anika.bennett29@reloopcrates.example
+30,EMP-0030,Darren,Ibrahim,Commercial,Account Executive,7,3,2025-03-07,Active,darren.ibrahim30@reloopcrates.example
+31,EMP-0031,Rina,Nielsen,Finance,Revenue Operations Analyst,2,1,2023-05-31,Active,rina.nielsen31@reloopcrates.example
+32,EMP-0032,Rafael,Santos,Supply Chain,Network Planner,4,7,2025-02-02,Active,rafael.santos32@reloopcrates.example
+33,EMP-0033,Rafael,Ibrahim,Commercial,Sales Operations Analyst,3,13,2025-08-30,Active,rafael.ibrahim33@reloopcrates.example
+34,EMP-0034,Talia,Brooks,Operations,Dispatch Lead,9,8,2023-02-26,Active,talia.brooks34@reloopcrates.example
+35,EMP-0035,Rafael,Fischer,Finance,Billing Specialist,2,2,2024-09-30,Active,rafael.fischer35@reloopcrates.example
+36,EMP-0036,Miles,Nguyen,Supply Chain,Procurement Manager,7,6,2023-02-06,Active,miles.nguyen36@reloopcrates.example
+37,EMP-0037,Noah,Ibrahim,Supply Chain,Fleet Coordinator,8,19,2025-01-01,Active,noah.ibrahim37@reloopcrates.example
+38,EMP-0038,Avery,Lambert,Operations,Service Technician,6,2,2025-03-07,Active,avery.lambert38@reloopcrates.example
+39,EMP-0039,Ben,Nguyen,Commercial,Customer Success Manager,7,7,2024-05-05,Active,ben.nguyen39@reloopcrates.example
+40,EMP-0040,Mateo,Patel,Finance,Revenue Operations Analyst,5,1,2024-03-11,Active,mateo.patel40@reloopcrates.example
+41,EMP-0041,Avery,Vega,Commercial,Customer Success Manager,9,3,2025-05-28,Active,avery.vega41@reloopcrates.example
+42,EMP-0042,Keiko,Kaur,Finance,Revenue Operations Analyst,10,15,2024-01-07,Active,keiko.kaur42@reloopcrates.example
+43,EMP-0043,Caleb,Ibrahim,Operations,Hub Operations Manager,3,6,2025-08-24,Active,caleb.ibrahim43@reloopcrates.example
+44,EMP-0044,Iris,Nielsen,Finance,Billing Specialist,5,10,2024-04-07,Active,iris.nielsen44@reloopcrates.example
+45,EMP-0045,Fatima,Chen,Finance,Revenue Operations Analyst,6,9,2024-10-07,Active,fatima.chen45@reloopcrates.example
+46,EMP-0046,Maya,Santos,Supply Chain,Fleet Coordinator,4,19,2024-02-06,On Leave,maya.santos46@reloopcrates.example
+47,EMP-0047,Ben,Morales,Operations,Dispatch Lead,6,17,2024-04-06,Active,ben.morales47@reloopcrates.example
+48,EMP-0048,Darren,Klein,Supply Chain,Network Planner,2,15,2024-08-13,Active,darren.klein48@reloopcrates.example
+49,EMP-0049,Avery,Brooks,Operations,Dispatch Lead,7,8,2023-11-04,Active,avery.brooks49@reloopcrates.example
+50,EMP-0050,Miles,Shah,Supply Chain,Procurement Manager,11,2,2024-11-07,Active,miles.shah50@reloopcrates.example
+51,EMP-0051,Lena,Fischer,Commercial,Account Executive,11,18,2024-03-20,Active,lena.fischer51@reloopcrates.example
+52,EMP-0052,Maya,Owens,Finance,Revenue Operations Analyst,8,20,2025-06-22,Active,maya.owens52@reloopcrates.example
+53,EMP-0053,Maya,Okafor,Operations,Service Technician,1,6,2023-04-01,Active,maya.okafor53@reloopcrates.example
+54,EMP-0054,Caleb,Klein,Operations,Service Technician,7,7,2024-05-03,Active,caleb.klein54@reloopcrates.example
+55,EMP-0055,Noah,Klein,Supply Chain,Fleet Coordinator,5,16,2023-04-25,Active,noah.klein55@reloopcrates.example
+56,EMP-0056,Keiko,Brooks,Finance,Revenue Operations Analyst,6,13,2023-04-30,Active,keiko.brooks56@reloopcrates.example
+57,EMP-0057,Keiko,Kaur,Commercial,Account Executive,6,3,2024-12-13,Active,keiko.kaur57@reloopcrates.example
+58,EMP-0058,Talia,Brooks,Finance,Revenue Operations Analyst,5,17,2025-02-12,Active,talia.brooks58@reloopcrates.example
+59,EMP-0059,Ben,Haddad,Operations,Hub Operations Manager,2,6,2023-06-21,Active,ben.haddad59@reloopcrates.example
+60,EMP-0060,Elias,Lambert,Commercial,Account Executive,3,5,2023-07-21,Active,elias.lambert60@reloopcrates.example
+61,EMP-0061,Priya,Okafor,Finance,Billing Specialist,4,3,2025-02-13,Active,priya.okafor61@reloopcrates.example
+62,EMP-0062,Mateo,Morales,Supply Chain,Network Planner,10,9,2024-11-10,Active,mateo.morales62@reloopcrates.example
+63,EMP-0063,Maya,Bennett,Operations,Hub Operations Manager,1,2,2025-07-06,Active,maya.bennett63@reloopcrates.example
+64,EMP-0064,Iris,Park,Commercial,Customer Success Manager,1,1,2023-09-18,Active,iris.park64@reloopcrates.example
+65,EMP-0065,Avery,Rossi,Operations,Hub Operations Manager,6,4,2025-06-20,Active,avery.rossi65@reloopcrates.example
+66,EMP-0066,Iris,Morales,Operations,Dispatch Lead,5,3,2025-09-26,Active,iris.morales66@reloopcrates.example
+67,EMP-0067,Zara,Dawson,Commercial,Account Executive,10,2,2025-08-24,Active,zara.dawson67@reloopcrates.example
+68,EMP-0068,Sofia,Haddad,Commercial,Account Executive,2,12,2024-11-12,Active,sofia.haddad68@reloopcrates.example
+69,EMP-0069,Nina,Morales,Commercial,Sales Operations Analyst,10,7,2023-10-12,On Leave,nina.morales69@reloopcrates.example
+70,EMP-0070,Keiko,Rossi,Operations,Hub Operations Manager,2,13,2025-01-06,Active,keiko.rossi70@reloopcrates.example
+71,EMP-0071,Miles,Lambert,Supply Chain,Procurement Manager,3,2,2024-04-22,Active,miles.lambert71@reloopcrates.example
+72,EMP-0072,Noah,Morales,Finance,Billing Specialist,3,14,2024-08-08,Active,noah.morales72@reloopcrates.example
+73,EMP-0073,Hugo,Klein,Operations,Service Technician,7,5,2023-05-21,Active,hugo.klein73@reloopcrates.example
+74,EMP-0074,Keiko,Nielsen,Commercial,Sales Operations Analyst,2,11,2024-04-04,Active,keiko.nielsen74@reloopcrates.example
+75,EMP-0075,Iris,Rossi,Finance,Billing Specialist,1,20,2025-09-11,Active,iris.rossi75@reloopcrates.example
+76,EMP-0076,Iris,Vega,Finance,Billing Specialist,5,4,2023-05-31,Active,iris.vega76@reloopcrates.example
+77,EMP-0077,Rina,Brooks,Operations,Dispatch Lead,2,11,2025-03-04,Active,rina.brooks77@reloopcrates.example
+78,EMP-0078,Darren,Haddad,Commercial,Account Executive,8,10,2025-08-19,Active,darren.haddad78@reloopcrates.example
+79,EMP-0079,Hugo,Patel,Commercial,Account Executive,10,20,2025-05-18,Active,hugo.patel79@reloopcrates.example
+80,EMP-0080,Iris,Morales,Operations,Hub Operations Manager,8,19,2025-05-05,Active,iris.morales80@reloopcrates.example
+81,EMP-0081,Rafael,Dawson,Finance,Billing Specialist,2,7,2025-06-17,On Leave,rafael.dawson81@reloopcrates.example
+82,EMP-0082,Fatima,Lambert,Commercial,Customer Success Manager,9,11,2024-08-08,Active,fatima.lambert82@reloopcrates.example
+83,EMP-0083,Rina,Dawson,Commercial,Account Executive,3,15,2025-09-22,Active,rina.dawson83@reloopcrates.example
+84,EMP-0084,Jonah,Park,Supply Chain,Network Planner,6,12,2023-04-22,Active,jonah.park84@reloopcrates.example
+85,EMP-0085,Fatima,Fischer,Operations,Hub Operations Manager,6,5,2025-09-20,Active,fatima.fischer85@reloopcrates.example
+86,EMP-0086,Lena,Haddad,Operations,Service Technician,5,19,2024-05-05,Active,lena.haddad86@reloopcrates.example
+87,EMP-0087,Avery,Kaur,Operations,Dispatch Lead,3,13,2025-07-11,Active,avery.kaur87@reloopcrates.example
+88,EMP-0088,Elias,Brooks,Operations,Service Technician,5,20,2023-10-28,On Leave,elias.brooks88@reloopcrates.example
+89,EMP-0089,Mateo,Brooks,Finance,Revenue Operations Analyst,9,4,2025-09-21,Active,mateo.brooks89@reloopcrates.example
+90,EMP-0090,Hugo,Patel,Finance,Billing Specialist,8,8,2023-11-08,Active,hugo.patel90@reloopcrates.example
+91,EMP-0091,Mateo,Santos,Supply Chain,Fleet Coordinator,4,12,2023-12-17,Active,mateo.santos91@reloopcrates.example
+92,EMP-0092,Hugo,Nguyen,Operations,Dispatch Lead,10,6,2023-11-15,Active,hugo.nguyen92@reloopcrates.example
+93,EMP-0093,Mateo,Lambert,Finance,Billing Specialist,9,7,2024-01-14,Active,mateo.lambert93@reloopcrates.example
+94,EMP-0094,Rina,Brooks,Commercial,Account Executive,2,14,2025-08-31,Active,rina.brooks94@reloopcrates.example
+95,EMP-0095,Anika,Okafor,Operations,Hub Operations Manager,6,17,2023-05-31,Active,anika.okafor95@reloopcrates.example
+96,EMP-0096,Zara,Brooks,Finance,Revenue Operations Analyst,1,20,2024-11-09,Active,zara.brooks96@reloopcrates.example
+97,EMP-0097,Noah,Santos,Supply Chain,Procurement Manager,11,14,2023-08-11,Active,noah.santos97@reloopcrates.example
+98,EMP-0098,Maya,Owens,Operations,Service Technician,2,5,2024-08-28,Active,maya.owens98@reloopcrates.example
+99,EMP-0099,Elias,Lambert,Finance,Revenue Operations Analyst,8,12,2023-04-28,Active,elias.lambert99@reloopcrates.example
+100,EMP-0100,Rina,Ibrahim,Operations,Service Technician,5,12,2023-07-11,Active,rina.ibrahim100@reloopcrates.example
+101,EMP-0101,Darren,Santos,Operations,Hub Operations Manager,10,17,2024-05-30,Active,darren.santos101@reloopcrates.example
+102,EMP-0102,Anika,Bennett,Finance,Revenue Operations Analyst,8,2,2023-05-09,On Leave,anika.bennett102@reloopcrates.example
+103,EMP-0103,Avery,Nielsen,Finance,Revenue Operations Analyst,2,13,2024-08-08,Active,avery.nielsen103@reloopcrates.example
+104,EMP-0104,Hugo,Nguyen,Supply Chain,Network Planner,4,7,2025-07-06,Active,hugo.nguyen104@reloopcrates.example
+105,EMP-0105,Elias,Kaur,Commercial,Sales Operations Analyst,5,10,2024-05-05,Active,elias.kaur105@reloopcrates.example
+106,EMP-0106,Hugo,Vega,Commercial,Account Executive,3,16,2024-11-29,Active,hugo.vega106@reloopcrates.example
+107,EMP-0107,Rafael,Morales,Finance,Revenue Operations Analyst,5,19,2023-03-12,On Leave,rafael.morales107@reloopcrates.example
+108,EMP-0108,Elias,Dawson,Commercial,Sales Operations Analyst,2,13,2023-01-19,Active,elias.dawson108@reloopcrates.example
+109,EMP-0109,Owen,Haddad,Supply Chain,Procurement Manager,7,20,2025-06-23,Active,owen.haddad109@reloopcrates.example
+110,EMP-0110,Miles,Rossi,Finance,Billing Specialist,8,11,2025-07-29,Active,miles.rossi110@reloopcrates.example
+111,EMP-0111,Owen,Miller,Operations,Hub Operations Manager,3,3,2025-06-27,Active,owen.miller111@reloopcrates.example
+112,EMP-0112,Iris,Shah,Finance,Billing Specialist,5,14,2023-03-19,Active,iris.shah112@reloopcrates.example
+113,EMP-0113,Iris,Nielsen,Finance,Revenue Operations Analyst,4,12,2023-12-26,Active,iris.nielsen113@reloopcrates.example
+114,EMP-0114,Avery,Morales,Supply Chain,Fleet Coordinator,1,20,2023-09-14,Active,avery.morales114@reloopcrates.example
+115,EMP-0115,Caleb,Vega,Supply Chain,Procurement Manager,5,3,2024-09-21,Active,caleb.vega115@reloopcrates.example
+116,EMP-0116,Hugo,Owens,Operations,Dispatch Lead,3,13,2025-06-01,Active,hugo.owens116@reloopcrates.example
+117,EMP-0117,Elias,Nguyen,Finance,Revenue Operations Analyst,5,4,2024-04-09,Active,elias.nguyen117@reloopcrates.example
+118,EMP-0118,Elias,Chen,Finance,Revenue Operations Analyst,6,20,2024-02-05,Active,elias.chen118@reloopcrates.example
+119,EMP-0119,Darren,Nielsen,Commercial,Sales Operations Analyst,10,4,2023-03-04,Active,darren.nielsen119@reloopcrates.example
+120,EMP-0120,Hugo,Shah,Supply Chain,Network Planner,1,15,2025-04-29,Active,hugo.shah120@reloopcrates.example
+121,EMP-0121,Lena,Vega,Commercial,Sales Operations Analyst,6,13,2025-01-21,Active,lena.vega121@reloopcrates.example
+122,EMP-0122,Lena,Rossi,Supply Chain,Procurement Manager,6,4,2023-08-30,Active,lena.rossi122@reloopcrates.example
+123,EMP-0123,Sofia,Nguyen,Finance,Revenue Operations Analyst,5,3,2023-06-27,Active,sofia.nguyen123@reloopcrates.example
+124,EMP-0124,Caleb,Nguyen,Operations,Service Technician,8,5,2024-01-28,Active,caleb.nguyen124@reloopcrates.example
+125,EMP-0125,Avery,Dawson,Finance,Revenue Operations Analyst,2,20,2024-06-24,Active,avery.dawson125@reloopcrates.example
+126,EMP-0126,Fatima,Brooks,Supply Chain,Procurement Manager,2,13,2023-06-27,Active,fatima.brooks126@reloopcrates.example
+127,EMP-0127,Owen,Brooks,Supply Chain,Procurement Manager,4,19,2023-03-07,Active,owen.brooks127@reloopcrates.example
+128,EMP-0128,Avery,Nguyen,Commercial,Account Executive,8,19,2023-04-29,Active,avery.nguyen128@reloopcrates.example
+129,EMP-0129,Lena,Ibrahim,Supply Chain,Fleet Coordinator,4,13,2025-04-25,Active,lena.ibrahim129@reloopcrates.example
+130,EMP-0130,Iris,Owens,Supply Chain,Fleet Coordinator,6,3,2025-07-09,Active,iris.owens130@reloopcrates.example
+131,EMP-0131,Darren,Fischer,Supply Chain,Fleet Coordinator,5,17,2023-11-27,Active,darren.fischer131@reloopcrates.example
+132,EMP-0132,Maya,Okafor,Operations,Service Technician,9,1,2023-04-01,Active,maya.okafor132@reloopcrates.example
+133,EMP-0133,Avery,Haddad,Supply Chain,Network Planner,4,10,2025-07-04,Active,avery.haddad133@reloopcrates.example
+134,EMP-0134,Noah,Bennett,Supply Chain,Network Planner,5,10,2024-02-17,Active,noah.bennett134@reloopcrates.example
+135,EMP-0135,Nina,Klein,Supply Chain,Fleet Coordinator,10,17,2025-05-31,Active,nina.klein135@reloopcrates.example
+136,EMP-0136,Priya,Nielsen,Supply Chain,Procurement Manager,8,6,2025-01-25,On Leave,priya.nielsen136@reloopcrates.example
+137,EMP-0137,Darren,Bennett,Supply Chain,Network Planner,3,5,2024-06-17,Active,darren.bennett137@reloopcrates.example
+138,EMP-0138,Rina,Chen,Operations,Dispatch Lead,7,4,2024-07-31,Active,rina.chen138@reloopcrates.example
+139,EMP-0139,Iris,Park,Finance,Revenue Operations Analyst,8,2,2025-08-09,On Leave,iris.park139@reloopcrates.example
+140,EMP-0140,Nina,Dawson,Commercial,Customer Success Manager,5,14,2024-03-31,Active,nina.dawson140@reloopcrates.example
+141,EMP-0141,Ben,Park,Operations,Service Technician,5,10,2023-10-16,On Leave,ben.park141@reloopcrates.example
+142,EMP-0142,Miles,Dawson,Supply Chain,Procurement Manager,7,4,2023-12-05,Active,miles.dawson142@reloopcrates.example
+143,EMP-0143,Rafael,Shah,Operations,Dispatch Lead,8,4,2023-06-15,On Leave,rafael.shah143@reloopcrates.example
+144,EMP-0144,Zara,Santos,Supply Chain,Fleet Coordinator,1,12,2025-03-18,Active,zara.santos144@reloopcrates.example
+145,EMP-0145,Darren,Rossi,Supply Chain,Procurement Manager,5,20,2024-08-18,Active,darren.rossi145@reloopcrates.example
+146,EMP-0146,Hugo,Park,Commercial,Account Executive,11,20,2024-09-26,Active,hugo.park146@reloopcrates.example
+147,EMP-0147,Rafael,Miller,Commercial,Account Executive,8,7,2024-04-30,Active,rafael.miller147@reloopcrates.example
+148,EMP-0148,Keiko,Chen,Supply Chain,Fleet Coordinator,8,20,2024-11-17,Active,keiko.chen148@reloopcrates.example
+149,EMP-0149,Hugo,Miller,Commercial,Sales Operations Analyst,4,13,2024-10-03,Active,hugo.miller149@reloopcrates.example
+150,EMP-0150,Talia,Dawson,Operations,Hub Operations Manager,5,1,2023-10-15,Active,talia.dawson150@reloopcrates.example
+151,EMP-0151,Darren,Park,Supply Chain,Fleet Coordinator,11,9,2024-01-04,Active,darren.park151@reloopcrates.example
+152,EMP-0152,Keiko,Rossi,Commercial,Sales Operations Analyst,2,18,2025-07-08,Active,keiko.rossi152@reloopcrates.example
+153,EMP-0153,Hugo,Haddad,Finance,Billing Specialist,11,19,2023-04-23,Active,hugo.haddad153@reloopcrates.example
+154,EMP-0154,Rafael,Fischer,Finance,Billing Specialist,5,8,2024-09-21,Active,rafael.fischer154@reloopcrates.example
+155,EMP-0155,Iris,Owens,Supply Chain,Procurement Manager,11,6,2023-07-04,Active,iris.owens155@reloopcrates.example
+156,EMP-0156,Noah,Rossi,Commercial,Sales Operations Analyst,3,19,2024-11-21,Active,noah.rossi156@reloopcrates.example
+157,EMP-0157,Ben,Nguyen,Operations,Service Technician,4,16,2024-05-06,Active,ben.nguyen157@reloopcrates.example
+158,EMP-0158,Keiko,Patel,Operations,Dispatch Lead,7,15,2023-05-21,Active,keiko.patel158@reloopcrates.example
+159,EMP-0159,Lena,Patel,Supply Chain,Network Planner,1,9,2025-05-14,Active,lena.patel159@reloopcrates.example
+160,EMP-0160,Talia,Patel,Finance,Billing Specialist,2,18,2023-10-23,Active,talia.patel160@reloopcrates.example
+161,EMP-0161,Rina,Okafor,Commercial,Sales Operations Analyst,9,9,2025-05-27,On Leave,rina.okafor161@reloopcrates.example
+162,EMP-0162,Caleb,Owens,Supply Chain,Procurement Manager,5,1,2023-09-20,Active,caleb.owens162@reloopcrates.example
+163,EMP-0163,Noah,Kaur,Supply Chain,Fleet Coordinator,3,20,2023-04-01,Active,noah.kaur163@reloopcrates.example
+164,EMP-0164,Noah,Okafor,Finance,Revenue Operations Analyst,1,11,2024-12-16,Active,noah.okafor164@reloopcrates.example
+165,EMP-0165,Caleb,Shah,Commercial,Sales Operations Analyst,2,7,2023-10-27,Active,caleb.shah165@reloopcrates.example
+166,EMP-0166,Caleb,Dawson,Operations,Hub Operations Manager,3,15,2023-07-05,Active,caleb.dawson166@reloopcrates.example
+167,EMP-0167,Talia,Vega,Operations,Service Technician,9,13,2024-12-09,Active,talia.vega167@reloopcrates.example
+168,EMP-0168,Anika,Kaur,Supply Chain,Network Planner,10,16,2025-04-03,Active,anika.kaur168@reloopcrates.example
+169,EMP-0169,Anika,Kaur,Supply Chain,Fleet Coordinator,6,7,2023-06-16,Active,anika.kaur169@reloopcrates.example
+170,EMP-0170,Rafael,Okafor,Operations,Service Technician,9,7,2025-04-18,Active,rafael.okafor170@reloopcrates.example
+171,EMP-0171,Jonah,Ibrahim,Operations,Hub Operations Manager,9,18,2024-03-10,Active,jonah.ibrahim171@reloopcrates.example
+172,EMP-0172,Rafael,Chen,Operations,Dispatch Lead,9,20,2024-05-05,Active,rafael.chen172@reloopcrates.example
+173,EMP-0173,Rina,Santos,Finance,Revenue Operations Analyst,9,1,2023-08-09,Active,rina.santos173@reloopcrates.example
+174,EMP-0174,Fatima,Okafor,Commercial,Customer Success Manager,11,5,2024-08-22,Active,fatima.okafor174@reloopcrates.example
+175,EMP-0175,Maya,Owens,Supply Chain,Procurement Manager,4,13,2024-01-18,Active,maya.owens175@reloopcrates.example
+176,EMP-0176,Priya,Chen,Operations,Hub Operations Manager,4,7,2024-09-14,Active,priya.chen176@reloopcrates.example
+177,EMP-0177,Hugo,Santos,Operations,Dispatch Lead,3,8,2023-06-15,Active,hugo.santos177@reloopcrates.example
+178,EMP-0178,Maya,Patel,Finance,Revenue Operations Analyst,10,19,2023-03-19,Active,maya.patel178@reloopcrates.example
+179,EMP-0179,Anika,Lambert,Commercial,Account Executive,4,3,2025-08-11,Active,anika.lambert179@reloopcrates.example
+180,EMP-0180,Lena,Fischer,Finance,Revenue Operations Analyst,9,10,2023-12-23,On Leave,lena.fischer180@reloopcrates.example
+181,EMP-0181,Avery,Fischer,Supply Chain,Fleet Coordinator,3,10,2023-07-11,Active,avery.fischer181@reloopcrates.example
+182,EMP-0182,Hugo,Bennett,Supply Chain,Procurement Manager,4,2,2023-02-07,Active,hugo.bennett182@reloopcrates.example
+183,EMP-0183,Elias,Shah,Commercial,Account Executive,2,3,2023-02-01,Active,elias.shah183@reloopcrates.example
+184,EMP-0184,Anika,Chen,Supply Chain,Network Planner,10,10,2024-12-04,Active,anika.chen184@reloopcrates.example
+185,EMP-0185,Avery,Kaur,Supply Chain,Network Planner,6,7,2025-09-13,On Leave,avery.kaur185@reloopcrates.example
+186,EMP-0186,Owen,Lambert,Operations,Hub Operations Manager,3,3,2025-01-06,Active,owen.lambert186@reloopcrates.example
+187,EMP-0187,Lena,Miller,Commercial,Account Executive,2,16,2023-06-01,Active,lena.miller187@reloopcrates.example
+188,EMP-0188,Priya,Miller,Operations,Hub Operations Manager,5,18,2023-07-17,Active,priya.miller188@reloopcrates.example
+189,EMP-0189,Darren,Morales,Finance,Revenue Operations Analyst,4,11,2025-07-10,On Leave,darren.morales189@reloopcrates.example
+190,EMP-0190,Talia,Dawson,Commercial,Account Executive,11,8,2025-05-07,Active,talia.dawson190@reloopcrates.example
+191,EMP-0191,Noah,Santos,Commercial,Sales Operations Analyst,11,7,2025-07-31,Active,noah.santos191@reloopcrates.example
+192,EMP-0192,Rafael,Shah,Commercial,Account Executive,4,5,2023-07-08,Active,rafael.shah192@reloopcrates.example
+193,EMP-0193,Rafael,Park,Commercial,Sales Operations Analyst,3,3,2025-05-14,Active,rafael.park193@reloopcrates.example
+194,EMP-0194,Jonah,Nguyen,Operations,Hub Operations Manager,1,1,2024-10-30,Active,jonah.nguyen194@reloopcrates.example
+195,EMP-0195,Sofia,Patel,Supply Chain,Procurement Manager,2,17,2025-04-05,Active,sofia.patel195@reloopcrates.example
+196,EMP-0196,Keiko,Dawson,Finance,Billing Specialist,5,6,2024-12-04,Active,keiko.dawson196@reloopcrates.example
+197,EMP-0197,Miles,Park,Supply Chain,Fleet Coordinator,11,11,2023-11-19,Active,miles.park197@reloopcrates.example
+198,EMP-0198,Priya,Nguyen,Finance,Revenue Operations Analyst,10,12,2024-09-12,Active,priya.nguyen198@reloopcrates.example
+199,EMP-0199,Fatima,Lambert,Finance,Revenue Operations Analyst,5,1,2024-08-03,On Leave,fatima.lambert199@reloopcrates.example
+200,EMP-0200,Sofia,Owens,Operations,Dispatch Lead,5,6,2023-07-07,Active,sofia.owens200@reloopcrates.example
+201,EMP-0201,Rafael,Nielsen,Commercial,Customer Success Manager,3,2,2023-07-21,Active,rafael.nielsen201@reloopcrates.example
+202,EMP-0202,Fatima,Vega,Supply Chain,Procurement Manager,8,5,2024-11-22,Active,fatima.vega202@reloopcrates.example
+203,EMP-0203,Iris,Chen,Finance,Billing Specialist,2,17,2025-05-07,Active,iris.chen203@reloopcrates.example
+204,EMP-0204,Fatima,Vega,Finance,Revenue Operations Analyst,4,19,2025-04-05,Active,fatima.vega204@reloopcrates.example
+205,EMP-0205,Ben,Park,Finance,Revenue Operations Analyst,2,6,2024-05-17,Active,ben.park205@reloopcrates.example
+206,EMP-0206,Ben,Miller,Supply Chain,Procurement Manager,5,2,2023-12-25,Active,ben.miller206@reloopcrates.example
+207,EMP-0207,Miles,Brooks,Operations,Dispatch Lead,8,20,2025-09-14,Active,miles.brooks207@reloopcrates.example
+208,EMP-0208,Keiko,Morales,Supply Chain,Procurement Manager,1,4,2025-02-28,Active,keiko.morales208@reloopcrates.example
+209,EMP-0209,Noah,Patel,Finance,Billing Specialist,4,16,2024-07-22,Active,noah.patel209@reloopcrates.example
+210,EMP-0210,Miles,Nguyen,Commercial,Customer Success Manager,6,1,2023-10-05,Active,miles.nguyen210@reloopcrates.example
+211,EMP-0211,Noah,Fischer,Supply Chain,Procurement Manager,2,17,2023-10-17,Active,noah.fischer211@reloopcrates.example
+212,EMP-0212,Lena,Miller,Operations,Dispatch Lead,4,9,2023-12-19,Active,lena.miller212@reloopcrates.example
+213,EMP-0213,Iris,Fischer,Finance,Revenue Operations Analyst,7,7,2024-07-03,Active,iris.fischer213@reloopcrates.example
+214,EMP-0214,Anika,Morales,Supply Chain,Network Planner,4,5,2024-01-23,Active,anika.morales214@reloopcrates.example
+215,EMP-0215,Avery,Bennett,Supply Chain,Network Planner,10,10,2023-06-12,Active,avery.bennett215@reloopcrates.example
+216,EMP-0216,Talia,Patel,Operations,Dispatch Lead,8,17,2025-01-18,Active,talia.patel216@reloopcrates.example
+217,EMP-0217,Avery,Park,Operations,Service Technician,7,6,2023-12-19,Active,avery.park217@reloopcrates.example
+218,EMP-0218,Elias,Fischer,Commercial,Sales Operations Analyst,7,8,2025-09-02,Active,elias.fischer218@reloopcrates.example
+219,EMP-0219,Nina,Dawson,Supply Chain,Procurement Manager,4,5,2025-02-04,Active,nina.dawson219@reloopcrates.example
+220,EMP-0220,Darren,Bennett,Commercial,Sales Operations Analyst,6,7,2023-06-27,Active,darren.bennett220@reloopcrates.example
+221,EMP-0221,Darren,Bennett,Operations,Dispatch Lead,11,4,2024-05-03,Active,darren.bennett221@reloopcrates.example
+222,EMP-0222,Keiko,Park,Finance,Revenue Operations Analyst,6,11,2024-03-02,Active,keiko.park222@reloopcrates.example
+223,EMP-0223,Anika,Shah,Finance,Revenue Operations Analyst,11,1,2025-02-28,Active,anika.shah223@reloopcrates.example
+224,EMP-0224,Anika,Kaur,Finance,Billing Specialist,6,15,2023-08-10,Active,anika.kaur224@reloopcrates.example
+225,EMP-0225,Talia,Chen,Supply Chain,Fleet Coordinator,11,12,2023-12-27,Active,talia.chen225@reloopcrates.example
+226,EMP-0226,Priya,Fischer,Commercial,Customer Success Manager,9,16,2023-09-18,Active,priya.fischer226@reloopcrates.example
+227,EMP-0227,Mateo,Owens,Operations,Service Technician,9,4,2024-01-31,Active,mateo.owens227@reloopcrates.example
+228,EMP-0228,Caleb,Haddad,Supply Chain,Procurement Manager,7,3,2023-10-12,On Leave,caleb.haddad228@reloopcrates.example
+229,EMP-0229,Rina,Rossi,Supply Chain,Procurement Manager,6,7,2023-08-23,Active,rina.rossi229@reloopcrates.example
+230,EMP-0230,Miles,Okafor,Supply Chain,Procurement Manager,5,5,2023-03-10,Active,miles.okafor230@reloopcrates.example
+231,EMP-0231,Ben,Rossi,Commercial,Customer Success Manager,5,14,2024-01-16,On Leave,ben.rossi231@reloopcrates.example
+232,EMP-0232,Fatima,Park,Operations,Service Technician,3,7,2024-12-13,Active,fatima.park232@reloopcrates.example
+233,EMP-0233,Caleb,Santos,Finance,Billing Specialist,4,2,2023-01-14,Active,caleb.santos233@reloopcrates.example
+234,EMP-0234,Lena,Morales,Commercial,Account Executive,8,10,2023-05-25,Active,lena.morales234@reloopcrates.example
+235,EMP-0235,Keiko,Owens,Operations,Dispatch Lead,2,3,2025-01-21,Active,keiko.owens235@reloopcrates.example
+236,EMP-0236,Zara,Bennett,Commercial,Customer Success Manager,2,10,2023-07-12,Active,zara.bennett236@reloopcrates.example
+237,EMP-0237,Maya,Patel,Operations,Hub Operations Manager,1,13,2023-10-19,Active,maya.patel237@reloopcrates.example
+238,EMP-0238,Iris,Owens,Supply Chain,Fleet Coordinator,6,8,2024-07-14,On Leave,iris.owens238@reloopcrates.example
+239,EMP-0239,Priya,Patel,Commercial,Sales Operations Analyst,6,5,2024-03-31,Active,priya.patel239@reloopcrates.example
+240,EMP-0240,Priya,Vega,Commercial,Sales Operations Analyst,10,15,2024-06-20,On Leave,priya.vega240@reloopcrates.example
+241,EMP-0241,Fatima,Nielsen,Commercial,Sales Operations Analyst,2,2,2024-01-11,Active,fatima.nielsen241@reloopcrates.example
+242,EMP-0242,Nina,Morales,Commercial,Sales Operations Analyst,11,18,2024-04-06,Active,nina.morales242@reloopcrates.example
+243,EMP-0243,Iris,Kaur,Commercial,Sales Operations Analyst,11,10,2024-10-20,Active,iris.kaur243@reloopcrates.example
+244,EMP-0244,Avery,Nguyen,Supply Chain,Fleet Coordinator,4,1,2023-10-12,Active,avery.nguyen244@reloopcrates.example
+245,EMP-0245,Hugo,Fischer,Commercial,Customer Success Manager,4,10,2025-05-01,On Leave,hugo.fischer245@reloopcrates.example
+246,EMP-0246,Darren,Nguyen,Supply Chain,Procurement Manager,6,20,2025-02-19,Active,darren.nguyen246@reloopcrates.example
+247,EMP-0247,Lena,Bennett,Supply Chain,Procurement Manager,5,17,2023-12-18,Active,lena.bennett247@reloopcrates.example
+248,EMP-0248,Rafael,Nielsen,Commercial,Sales Operations Analyst,2,9,2025-06-11,On Leave,rafael.nielsen248@reloopcrates.example
+249,EMP-0249,Anika,Rossi,Commercial,Customer Success Manager,8,12,2023-12-25,Active,anika.rossi249@reloopcrates.example
+250,EMP-0250,Mateo,Dawson,Supply Chain,Network Planner,11,12,2025-05-27,Active,mateo.dawson250@reloopcrates.example
+251,EMP-0251,Avery,Santos,Finance,Billing Specialist,3,8,2023-05-23,On Leave,avery.santos251@reloopcrates.example
+252,EMP-0252,Miles,Bennett,Commercial,Sales Operations Analyst,8,4,2023-11-13,Active,miles.bennett252@reloopcrates.example
+253,EMP-0253,Fatima,Fischer,Finance,Revenue Operations Analyst,6,15,2024-05-31,Active,fatima.fischer253@reloopcrates.example
+254,EMP-0254,Fatima,Nielsen,Commercial,Customer Success Manager,5,12,2025-04-16,Active,fatima.nielsen254@reloopcrates.example
+255,EMP-0255,Fatima,Santos,Finance,Billing Specialist,2,9,2024-06-15,Active,fatima.santos255@reloopcrates.example
+256,EMP-0256,Owen,Rossi,Supply Chain,Fleet Coordinator,2,20,2024-07-02,Active,owen.rossi256@reloopcrates.example
+257,EMP-0257,Miles,Owens,Commercial,Customer Success Manager,5,10,2024-09-15,Active,miles.owens257@reloopcrates.example
+258,EMP-0258,Noah,Miller,Commercial,Account Executive,1,18,2024-07-27,On Leave,noah.miller258@reloopcrates.example
+259,EMP-0259,Lena,Vega,Finance,Billing Specialist,3,7,2024-08-06,On Leave,lena.vega259@reloopcrates.example
+260,EMP-0260,Lena,Shah,Supply Chain,Network Planner,8,2,2024-09-23,Active,lena.shah260@reloopcrates.example
+261,EMP-0261,Hugo,Park,Finance,Billing Specialist,3,19,2023-12-21,Active,hugo.park261@reloopcrates.example
+262,EMP-0262,Ben,Kaur,Commercial,Account Executive,8,3,2024-10-03,Active,ben.kaur262@reloopcrates.example
+263,EMP-0263,Jonah,Owens,Supply Chain,Fleet Coordinator,8,15,2023-11-21,Active,jonah.owens263@reloopcrates.example
+264,EMP-0264,Miles,Lambert,Operations,Hub Operations Manager,7,11,2024-02-22,Active,miles.lambert264@reloopcrates.example
+265,EMP-0265,Rina,Chen,Finance,Revenue Operations Analyst,6,20,2025-03-11,Active,rina.chen265@reloopcrates.example
+266,EMP-0266,Anika,Dawson,Commercial,Sales Operations Analyst,8,20,2025-03-09,Active,anika.dawson266@reloopcrates.example
+267,EMP-0267,Keiko,Nielsen,Commercial,Sales Operations Analyst,6,17,2023-01-04,Active,keiko.nielsen267@reloopcrates.example
+268,EMP-0268,Darren,Lambert,Supply Chain,Network Planner,10,20,2024-05-30,Active,darren.lambert268@reloopcrates.example
+269,EMP-0269,Jonah,Nielsen,Commercial,Customer Success Manager,8,2,2025-08-26,Active,jonah.nielsen269@reloopcrates.example
+270,EMP-0270,Miles,Klein,Supply Chain,Fleet Coordinator,8,6,2025-09-22,Active,miles.klein270@reloopcrates.example
+271,EMP-0271,Mateo,Santos,Operations,Dispatch Lead,6,19,2023-10-12,Active,mateo.santos271@reloopcrates.example
+272,EMP-0272,Lena,Kaur,Supply Chain,Network Planner,11,3,2023-07-20,Active,lena.kaur272@reloopcrates.example
+273,EMP-0273,Lena,Dawson,Commercial,Sales Operations Analyst,8,8,2024-03-19,Active,lena.dawson273@reloopcrates.example
+274,EMP-0274,Talia,Brooks,Operations,Service Technician,9,6,2025-05-27,Active,talia.brooks274@reloopcrates.example
+275,EMP-0275,Jonah,Kaur,Operations,Service Technician,2,19,2024-08-04,Active,jonah.kaur275@reloopcrates.example
+276,EMP-0276,Elias,Morales,Operations,Dispatch Lead,10,16,2025-08-14,Active,elias.morales276@reloopcrates.example
+277,EMP-0277,Jonah,Miller,Operations,Service Technician,6,1,2024-07-02,Active,jonah.miller277@reloopcrates.example
+278,EMP-0278,Talia,Patel,Commercial,Sales Operations Analyst,1,19,2023-04-25,Active,talia.patel278@reloopcrates.example
+279,EMP-0279,Mateo,Bennett,Operations,Dispatch Lead,3,8,2023-07-01,Active,mateo.bennett279@reloopcrates.example
+280,EMP-0280,Zara,Kaur,Commercial,Account Executive,4,2,2023-01-22,Active,zara.kaur280@reloopcrates.example
+281,EMP-0281,Avery,Lambert,Finance,Revenue Operations Analyst,2,2,2024-01-23,Active,avery.lambert281@reloopcrates.example
+282,EMP-0282,Sofia,Miller,Finance,Revenue Operations Analyst,8,8,2023-12-29,Active,sofia.miller282@reloopcrates.example
+283,EMP-0283,Sofia,Vega,Operations,Service Technician,6,14,2025-09-04,Active,sofia.vega283@reloopcrates.example
+284,EMP-0284,Mateo,Nielsen,Operations,Hub Operations Manager,3,10,2025-02-07,On Leave,mateo.nielsen284@reloopcrates.example
+285,EMP-0285,Zara,Santos,Finance,Billing Specialist,1,4,2023-05-16,Active,zara.santos285@reloopcrates.example
+286,EMP-0286,Lena,Nguyen,Operations,Service Technician,9,13,2024-05-26,Active,lena.nguyen286@reloopcrates.example
+287,EMP-0287,Hugo,Klein,Finance,Revenue Operations Analyst,1,7,2024-08-13,Active,hugo.klein287@reloopcrates.example
+288,EMP-0288,Noah,Park,Operations,Hub Operations Manager,9,5,2023-07-26,Active,noah.park288@reloopcrates.example
+289,EMP-0289,Darren,Okafor,Commercial,Account Executive,2,4,2023-04-27,On Leave,darren.okafor289@reloopcrates.example
+290,EMP-0290,Keiko,Shah,Commercial,Account Executive,3,4,2023-06-28,Active,keiko.shah290@reloopcrates.example
+291,EMP-0291,Zara,Lambert,Finance,Revenue Operations Analyst,11,11,2023-12-20,On Leave,zara.lambert291@reloopcrates.example
+292,EMP-0292,Elias,Owens,Supply Chain,Fleet Coordinator,11,13,2023-10-21,Active,elias.owens292@reloopcrates.example
+293,EMP-0293,Priya,Ibrahim,Supply Chain,Fleet Coordinator,8,10,2023-04-20,Active,priya.ibrahim293@reloopcrates.example
+294,EMP-0294,Ben,Miller,Supply Chain,Fleet Coordinator,4,12,2025-09-08,Active,ben.miller294@reloopcrates.example
+295,EMP-0295,Rina,Bennett,Commercial,Account Executive,9,5,2025-01-25,Active,rina.bennett295@reloopcrates.example
+296,EMP-0296,Sofia,Klein,Commercial,Customer Success Manager,10,16,2023-10-09,Active,sofia.klein296@reloopcrates.example
+297,EMP-0297,Elias,Okafor,Operations,Hub Operations Manager,9,5,2023-03-20,Active,elias.okafor297@reloopcrates.example
+298,EMP-0298,Caleb,Klein,Operations,Dispatch Lead,3,16,2024-05-29,Active,caleb.klein298@reloopcrates.example
+299,EMP-0299,Priya,Ibrahim,Commercial,Customer Success Manager,1,7,2024-04-20,Active,priya.ibrahim299@reloopcrates.example
+300,EMP-0300,Ben,Patel,Operations,Dispatch Lead,5,4,2023-03-24,Active,ben.patel300@reloopcrates.example
+301,EMP-0301,Jonah,Brooks,Finance,Billing Specialist,1,5,2023-08-19,Active,jonah.brooks301@reloopcrates.example
+302,EMP-0302,Noah,Brooks,Operations,Hub Operations Manager,1,14,2024-12-04,Active,noah.brooks302@reloopcrates.example
+303,EMP-0303,Maya,Nielsen,Supply Chain,Procurement Manager,3,8,2024-04-29,Active,maya.nielsen303@reloopcrates.example
+304,EMP-0304,Iris,Nielsen,Operations,Hub Operations Manager,2,8,2024-01-24,Active,iris.nielsen304@reloopcrates.example
+305,EMP-0305,Nina,Park,Operations,Hub Operations Manager,6,7,2025-02-23,Active,nina.park305@reloopcrates.example
+306,EMP-0306,Fatima,Ibrahim,Supply Chain,Procurement Manager,6,15,2024-11-02,Active,fatima.ibrahim306@reloopcrates.example
+307,EMP-0307,Rina,Brooks,Finance,Billing Specialist,8,17,2024-02-20,Active,rina.brooks307@reloopcrates.example
+308,EMP-0308,Avery,Morales,Finance,Billing Specialist,9,8,2025-07-11,On Leave,avery.morales308@reloopcrates.example
+309,EMP-0309,Noah,Shah,Finance,Revenue Operations Analyst,10,13,2023-05-05,Active,noah.shah309@reloopcrates.example
+310,EMP-0310,Keiko,Bennett,Commercial,Account Executive,6,16,2023-03-21,Active,keiko.bennett310@reloopcrates.example

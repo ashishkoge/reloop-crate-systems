@@ -1,0 +1,13 @@
+﻿region_id,region_code,region_name,country,operational_zone,active_flag
+1,NE,Northeast,USA,Atlantic,True
+2,SE,Southeast,USA,Atlantic,True
+3,MW,Midwest,USA,Central,True
+4,SW,Southwest,USA,Central,True
+5,WC,West Coast,USA,Pacific,True
+6,TX,Texas Triangle,USA,Central,True
+7,ON,Ontario,Canada,Northern,True
+8,QC,Quebec,Canada,Northern,True
+9,GB,Great Britain,United Kingdom,Europe,True
+10,DE,DACH,Germany,Europe,True
+11,NL,Benelux,Netherlands,Europe,True
+12,EM,Emerging Markets,Mexico,Americas,False
